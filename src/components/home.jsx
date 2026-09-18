@@ -56,7 +56,7 @@ const Home = () => {
 
         {/* hero section */}
         <section id = "hero"
-        className='bg-[url("law8.webp")] bg-cover bg-center bg-fixed
+        className='bg-[url("/law8.webp")] bg-cover bg-center bg-fixed
         min-h-screen h-auto relative p-6 pt-24 md:pt-28 clip scroll-mt-24 '
         >
             {/* the over lay div */}
@@ -317,7 +317,7 @@ const Home = () => {
         </section>
 
         {/* your counsel should be section */}
-        <section className='p-6 font-mono bg-[url("justice2.webp")]
+        <section className='p-6 font-mono bg-[url("/justice2.webp")]
         bg-cover bg-center bg-fixed relative text-white '
         >
             {/* black overlay div container */}
